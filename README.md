@@ -1,10 +1,7 @@
 # Hi there 👋 I am Thomas Aubert and here is my Github !
 
-<p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0UiMFgbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vbfzhjcsjs0u716x88o.gif" width="200" >
-<img src="./pdpGif2.gif" width="250"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0UiMFgbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vbfzhjcsjs0u716x88o.gif" width="200" >
-</p>
 
+![Pdp glitch](./pdpGif2.gif)
 
 
 
@@ -45,9 +42,7 @@
 ***
 ## Enjoy ;)
 
-<p align="center">
-<img src="./iimGlitch.gif" width="200" >
-</p>
+![Pdp glitch](./iimGlitch.gif)
 
 
 
