@@ -1,7 +1,7 @@
 # Hi there 👋 I am Thomas Aubert and here is my Github !
 
 <p align="center">
-<img src="./iimGlitch.gif" width="400" >
+
 </p>
 
 
@@ -41,7 +41,7 @@
 
 ***
 <p align="center">
-<img src="https://1.bp.blogspot.com/-7zLnkDQWAxI/YDPbSS95jlI/AAAAAAAAFMQ/gCnQd39k2bQkhzNnBItCSXQBs38h5yfzwCLcBGAsYHQ/s395/thank-you-animation-images.gif">
+<img src="./iimGlitch.gif" width="400" >
 </p>
 
 
