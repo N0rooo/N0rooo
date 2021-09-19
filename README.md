@@ -1,7 +1,8 @@
 # Hi there 👋 I am Thomas Aubert and here is my Github !
 
-
-![Pdp glitch](./pdpGif2.gif)
+<p align="center">
+<img src="./pdpGif2.gif" width="200">
+</p>
 
 
 
