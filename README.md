@@ -41,7 +41,7 @@
 
 ***
 <p align="center">
-<img src="./iimGlitch.gif" width="400" >
+<img src="./iimGlitch.gif" width="200" >
 </p>
 
 
