@@ -1,8 +1,8 @@
 # Hi there 👋 I am Thomas Aubert and here is my Github !
 
-<p align="center">
 
-</p>
+![Pdp glitch](./pdpGif2.gif)
+
 
 
 - 🔭 I’m currently an <strong>A2 student in web development</strong> at the IIM
@@ -40,6 +40,8 @@
 [![N0rooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0rooo)](https://github.com/N0rooo/github-readme-stats)
 
 ***
+## Enjoy ;)
+
 <p align="center">
 <img src="./iimGlitch.gif" width="200" >
 </p>
