@@ -1,7 +1,7 @@
 # Hi there 👋 I am Thomas Aubert and here is my Github !
-aa
+
 <p align="center">
-<img src="https://thumbs.gfycat.com/HappygoluckyWideCondor-size_restricted.gif" width="400" >
+<img src="./iimGlitch.gif" width="400" >
 </p>
 
 
