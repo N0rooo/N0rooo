@@ -1,5 +1,5 @@
 <h1 align="center">
-  Thomas Aubert s/o <span style="color:pink">N0ro</span>
+  Thomas Aubert s/o <span color="pink">N0ro</span>
   </h1>
 
 <p align="center">
