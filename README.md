@@ -1,5 +1,5 @@
-<p align="center">
-## Thomas Aubert s/o N0ro
+<h1 align="center">
+Thomas Aubert s/o N0ro
   </p>
 
 <p align="center">
