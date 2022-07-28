@@ -6,12 +6,11 @@
 <img src="./pdpGif2.gif" width="200">
 </p>
 
-- 🔭 I’m currently an <strong>A2 student in web development</strong> at the IIM
+- 🈺 I’m currently an <strong>A2 student in web development</strong> at the IIM
 
-- 🌱 I’m currently learning how use the <strong>Markdown language</strong> 😄
+- 💻 I am on a work-study program at AGWEB Communication 
 
 - :globe_with_meridians: I really like <strong>teamwork</strong> on web development project :busts_in_silhouette:
-- :zap: Fun fact : I also play <strong>Piano</strong> and I am a real football fan :goal_net:
 
 - 📫 How to reach me: thomas.aubert@edu.devinci.fr
 
