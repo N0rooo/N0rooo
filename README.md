@@ -1,4 +1,4 @@
-# Hi there 👋 I am Thomas Aubert and here is my Github !
+# Thomas Aubert s/o N0ro!
 
 <p align="center">
 <img src="./pdpGif2.gif" width="200">
