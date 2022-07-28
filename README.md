@@ -1,4 +1,6 @@
-## Thomas Aubert s/o N0ro <img src="https://tokyoghoul.fandom.com/fr/wiki/Noroi">
+<p align="center">
+## Thomas Aubert s/o N0ro
+  </p>
 
 <p align="center">
 <img src="./pdpGif2.gif" width="200">
