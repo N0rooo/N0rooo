@@ -1,5 +1,5 @@
 <h1 align="center">
-  Thomas Aubert s/o <span color="#FFC0CB">@@ N0ro @@ </span>
+  Thomas Aubert  -  N0ro
   </h1>
 
 <p align="center">
