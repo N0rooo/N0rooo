@@ -1,6 +1,6 @@
 <h1 align="center">
-Thomas Aubert s/o N0ro
-  </p>
+  Thomas Aubert s/o <span style="color:pink">N0ro</span>
+  </h1>
 
 <p align="center">
 <img src="./pdpGif2.gif" width="200">
