@@ -6,7 +6,7 @@
 <img src="./pdpGif2.gif" width="200">
 </p>
 
-- 🈺 I’m currently an <strong>A2 student in web development</strong> at the IIM
+- 🈺 I’m currently an <strong>A3 student in web development</strong> at the IIM
 
 - 💻 I am on a work-study program at AGWEB Communication 
 
