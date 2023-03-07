@@ -1,8 +1,8 @@
 <h1 align="center">
   Thomas Aubert  -  N0ro
   </h1>
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 - 🈺 I’m currently an <strong>A3 student in web development</strong> at the IIM
 
