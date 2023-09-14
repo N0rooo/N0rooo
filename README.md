@@ -7,12 +7,7 @@
   <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 
-- 🈺 I’m currently an <strong>A3 student in web development</strong> at the IIM
-
 - 💻 I am on a work-study program at AGWEB Communication 
-
-- :globe_with_meridians: I really like <strong>teamwork</strong> on web development project :busts_in_silhouette:
-
 - 📫 How to reach me: thomas.aubert@edu.devinci.fr
 
 ### To add me in Linked In :
