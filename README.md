@@ -26,10 +26,6 @@
 
 [![N0rooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0rooo)](https://github.com/N0rooo/github-readme-stats)
 
-***
-## Thank you for sharing my profile :white_check_mark:
-
-![Pdp glitch](./iimGlitchh.gif)
 
 
 
