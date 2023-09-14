@@ -17,7 +17,7 @@
 
 <hr>
 
-<img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" width="50" alt="css" /><img src="https://faq.o2switch.fr/_media/tuto-rapide/o2switch-deployer-react.js.png" width="50" alt="javascript" /><img src="https://assets.stickpng.com/images/62a7475d223343fbc2207cff.png" width=50 alt="adobeXD"/>
+<img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" width="100" alt="nextjs" /><img src="https://faq.o2switch.fr/_media/tuto-rapide/o2switch-deployer-react.js.png" width="100" alt="react" />
 
 
 
