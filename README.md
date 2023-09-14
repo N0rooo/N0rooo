@@ -17,7 +17,7 @@
 
 <hr>
 
-<img src="https://i18nexus.com/_next/static/media/nextjs.e54be70c.svg" width="50" alt="css" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="javascript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="python"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="php"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width=50 alt="adobeXD"/>
+<img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" width="50" alt="css" /><img src="https://faq.o2switch.fr/_media/tuto-rapide/o2switch-deployer-react.js.png" width="50" alt="javascript" /><img src="https://assets.stickpng.com/images/62a7475d223343fbc2207cff.png" width=50 alt="adobeXD"/>
 
 
 
