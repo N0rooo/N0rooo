@@ -8,7 +8,7 @@
 
 
 - 💻 I am on a work-study program at AGWEB Communication 
-- 📫 How to reach me: thomas.aubert@edu.devinci.fr
+- 📫 How to reach me: t.aubert@agweb-communication.com
 
 ### To add me in Linked In :
 <a href="https://www.linkedin.com/in/thomas-aubert-0718ba207?originalSubdomain=fr">
