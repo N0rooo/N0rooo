@@ -17,7 +17,7 @@
 
 <hr>
 
-<img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" width="100" alt="nextjs" /><img src="https://faq.o2switch.fr/_media/tuto-rapide/o2switch-deployer-react.js.png" width="100" alt="react" />
+<img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" width="100" alt="nextjs" />
 
 
 
