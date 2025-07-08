@@ -77,3 +77,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/N0rooo/N0rooo/output/snake.svg" alt="Snake animation" />
+
+###
