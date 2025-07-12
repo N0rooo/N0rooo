@@ -6,7 +6,7 @@
 
 #
 
-<h3 align="left">I specialize in building scalable web applications using Next.js 🚀 and TypeScript 💙 with a strong focus on clean code, developer experience, and modern UI/UX principles 🎨.<br><br><br>Always eager to explore new technologies and push the boundaries of what's possible on the web 🔥</h3>
+<h3 align="left" style="margin-right: 20px;">I specialize in building scalable web applications using Next.js 🚀 and TypeScript 💙 with a strong focus on clean code, developer experience, and modern UI/UX principles 🎨.<br><br><br>Always eager to explore new technologies and push the boundaries of what's possible on the web 🔥</h3>
 
 #
 
