@@ -4,11 +4,11 @@
 
 <img align="right" height="204" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzU1aXA0YnMyYXhicmZvdnByNXhyZXRwZTNhbDlyY2g4cnRyZDc2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sGIxhunddTUOHlHXgu/giphy.gif"  />
 
-###
+##
 
 <h3 align="left">I specialize in building scalable web applications using Next.js 🚀 and TypeScript 💙, with a strong focus on clean code ✨, developer experience 👨‍💻, and modern UI/UX principles 🎨.<br><br><br>Always eager to explore new technologies and push the boundaries of what's possible on the web 🔥</h3>
 
-###
+##
 
 <br clear="both">
 
@@ -47,11 +47,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N0rooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+#
 
 <h4 align="left">I’m committed to regular contributions on GitHub — here’s a playful way to track my daily activity 👻 👻</h4>
 
-###
+#
 
 <br clear="both">
 
@@ -61,11 +61,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/N0rooo/N0rooo/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+#
 
 <h2 align="left">✨ Code with purpose, build with passion - Let's create something amazing! ✨</h2>
 
-###
+#
 
 <div align="left">
   <a href="https://www.linkedin.com/in/thomas-aubert-0718ba207/" target="_blank">
