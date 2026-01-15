@@ -45,16 +45,6 @@ I craft modern, scalable web applications with a focus on clean code, developer 
   
 </div>
 
-## 🔥 Coding Streak
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=N0rooo&theme=github_dark" alt="GitHub Streak" />
-
-</div>
-  
-  
----
   
   
 <p  align="center"><i>My GitHub activity, Pacman style 👻</i></p>
