@@ -45,7 +45,7 @@ I craft modern, scalable web applications with a focus on clean code, developer 
   
 </div>
 
---
+
   
 <p  align="center"><i>My GitHub activity, Pacman style 👻</i></p>
 <p  align="center">
