@@ -45,7 +45,7 @@ I craft modern, scalable web applications with a focus on clean code, developer 
   
 </div>
 
-  
+--
   
 <p  align="center"><i>My GitHub activity, Pacman style 👻</i></p>
 <p  align="center">
@@ -62,6 +62,7 @@ I craft modern, scalable web applications with a focus on clean code, developer 
   
   
 🤝 Always happy to chat about code, projects, or just say hi!
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-thomasaubert.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasaubert.dev)
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-aubert-0718ba207/)
 [![Email](https://img.shields.io/badge/Email-t.aubert.dev@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.aubert.dev@outlook.com)
