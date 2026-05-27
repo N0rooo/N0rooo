@@ -18,8 +18,8 @@
 
   <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,supabase,tailwindcss,jest,nodejs,docker,grap
-  hql,flutter,solidity" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,supabase,tailwindcss,jest,nodejs,docker,gr 
+  aphql,flutter,solidity"  height="40" />
 
   </div>
 
@@ -38,19 +38,6 @@
 
   ---
 
-
-  ## 📈 Contributions & Stats
-
-
-  <div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N0rooo&t
-  heme=github_dark" alt="GitHub profile details" />
-
-  </div>
-
-
-  ---
 
 
   ## 📈 Contributions & Stats
